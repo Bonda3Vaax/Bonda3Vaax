@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bonda
-- 👀 I’m interested in Coding
+- 👀 I’m interested in learningToCode
 - 🌱 I’m currently learning new stuff
 - 💞️ I’m looking to collaborate w people
 - 📫 How to reach me ...
