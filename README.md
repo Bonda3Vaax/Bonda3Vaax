@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bonda
+- 👋 Hi
 - 👀 I’m interested in learningToCode
 - 🌱 I’m currently learning new stuff
 - 💞️ I’m looking to collaborate w people
